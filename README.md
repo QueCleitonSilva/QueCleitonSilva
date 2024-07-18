@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Cleiton Silva</h1>
+<h1 align="center">Oi 👋, sou Cleiton Silva</h1>
 <h3 align="center">Um analista de BI e dados bacharelado em marketing com MBA em analise e ciência de dados</h3>
 
 - 🔭 Estou atualmente trabalhando em meu **portfolio de projetos**
