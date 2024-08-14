@@ -3,7 +3,7 @@
 
 - 🔭 Estou atualmente trabalhando em meu **portfolio de projetos**
 
-- 🌱 Estou atualmente estudando **SQL e Python para criação e automatização de Dashboards**
+- 🌱 Estou atualmente estudando **Power BI, SQL e Python para criação e automatização do tratamento dos dados de Dashboards**
 
 - 👨‍💻 Todos os meus projetos pessoais estão disponíveis em [https://github.com/QueCleitonSilva](https://github.com/QueCleitonSilva)
 
